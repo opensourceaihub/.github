@@ -27,7 +27,7 @@
 </p>
 
 
-This is the [GitHub organization profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) for **OpenSourceAIHub**.
+This is the GitHub organization profile for **OpenSourceAIHub**.
 
 The file at [`profile/README.md`](./profile/README.md) renders on our organization landing page:
 
@@ -36,3 +36,42 @@ The file at [`profile/README.md`](./profile/README.md) renders on our organizati
 For quickstart examples, Postman collection, and documentation, visit the main repo:
 
 **[github.com/opensourceaihub/opensourceaihub](https://github.com/opensourceaihub/opensourceaihub)**
+
+## Repositories
+
+| Repository | Description |
+|-----------|-------------|
+| [**.github**](https://github.com/opensourceaihub/.github) | Organization profile (you are here) |
+| [**quickstart-ts**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-ts) | TypeScript / Node.js quickstart — clone, `npm install`, run |
+| [**quickstart-python**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-python) | Python quickstart — clone, `pip install`, run |
+| [**quickstart-go**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-go) | Go quickstart — clone, `go run`, done |
+| [**postman**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-postman) | Postman collection + environment for the full API |
+
+## Pricing
+
+| Plan | What You Get |
+|------|-------------|
+| **Free** | 1,000,000 Hub Credits on signup. Full DLP protection. All features. |
+| **Managed Credits** | Pay-as-you-go. Add credits to your wallet. We handle provider accounts. |
+| **Pro (BYOK)** | $29/month. Bring your own provider API keys. Zero markup on LLM costs. |
+
+> **No credit card required** to start. Sign up and get 1M credits instantly.
+
+---
+
+<p align="center">
+  <a href="https://opensourceaihub.ai/login"><strong>Get Started — 1M Free Credits →</strong></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://opensourceaihub.ai/security">Security</a> ·
+    <a href="https://opensourceaihub.ai/privacy">Privacy Policy</a> ·
+    <a href="https://opensourceaihub.ai/tos">Terms of Service</a> ·
+    <a href="mailto:support@opensourceaihub.ai">Contact</a>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>Built by <a href="https://opensourceaihub.ai">Datum Fuse LLC</a> · Stateless Architecture · No Data Retention · AES-256 Encryption</sub>
+</p>
