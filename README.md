@@ -38,7 +38,6 @@ For quickstart examples, Postman collection, and documentation, visit the main r
 
 | Repository | Description |
 |-----------|-------------|
-| [**.github**](https://github.com/opensourceaihub/.github) | Organization profile (you are here) |
 | [**quickstart-ts**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-ts) | TypeScript / Node.js quickstart — clone, `npm install`, run |
 | [**quickstart-python**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-python) | Python quickstart — clone, `pip install`, run |
 | [**quickstart-go**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-go) | Go quickstart — clone, `go run`, done |
