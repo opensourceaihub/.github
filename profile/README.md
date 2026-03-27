@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://opensourceaihub.ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://opensourceaihub.ai/logo-white.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://opensourceaihub.ai/logo-dark.svg" />
-      <img alt="OpenSourceAIHub" src="https://opensourceaihub.ai/Opensourceaihub_banner_vision.png" width="320" />
-    </picture>
+    <img alt="OpenSourceAIHub" src="./banner.png" width="600" />
   </a>
 </p>
 
