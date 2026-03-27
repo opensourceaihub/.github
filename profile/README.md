@@ -160,10 +160,10 @@ Route to **100+ models** across **9 providers** with one API key:
 | Repository | Description |
 |-----------|-------------|
 | [**.github**](https://github.com/opensourceaihub/.github) | Organization profile (you are here) |
-| [**quickstart-ts**](https://github.com/opensourceaihub/quickstart-ts) | TypeScript / Node.js quickstart — clone, `npm install`, run |
-| [**quickstart-python**](https://github.com/opensourceaihub/quickstart-python) | Python quickstart — clone, `pip install`, run |
-| [**quickstart-go**](https://github.com/opensourceaihub/quickstart-go) | Go quickstart — clone, `go run`, done |
-| [**postman**](https://github.com/opensourceaihub/postman) | Postman collection + environment for the full API |
+| [**quickstart-ts**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-ts) | TypeScript / Node.js quickstart — clone, `npm install`, run |
+| [**quickstart-python**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-python) | Python quickstart — clone, `pip install`, run |
+| [**quickstart-go**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-quickstart-go) | Go quickstart — clone, `go run`, done |
+| [**postman**](https://github.com/opensourceaihub/opensourceaihub/tree/main/opensourceaihub-postman) | Postman collection + environment for the full API |
 
 ## Pricing
 
