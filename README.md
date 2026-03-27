@@ -1,7 +1,7 @@
 # .github
 <p align="center">
   <a href="https://opensourceaihub.ai">
-    <img alt="OpenSourceAIHub" src="./banner.png" width="600" />
+    <img alt="OpenSourceAIHub" src="./profile/banner.png" width="600" />
   </a>
 </p>
 
